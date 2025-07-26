@@ -1,13 +1,13 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b>🍁 𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.</b>
 
 <b>ʜᴇʏ {}, {}</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.🍁</b>
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>🍁 𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.🍁</b>
 
 <b>ʜᴇʏ {},</b>
 
@@ -165,9 +165,9 @@ Nᴀᴍᴇ - {}
 
 3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs</b>"""
 
-    MVE_NT_FND = NOT_FOUND_TXT = """<b>😌 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.</b>
+    MVE_NT_FND = NOT_FOUND_TXT = """<b>😌𝑻𝒉𝒊𝒔 𝑴𝒐𝒗𝒊𝒆 𝑵𝒐𝒕 𝑭𝒐𝒖𝒏𝒅 𝑰𝒏 𝑴𝒚 𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆...😌</b>
 
-<blockquote>😌 यह ᴍᴏᴠɪᴇ मुझे ᴍᴇʀᴇ ᴅᴀᴛᴀʙᴀꜱᴇ में नहीं मिली।</blockquote>"""
+<blockquote>😌 यह 𝑴𝒐𝒗𝒊𝒆 मुझे मेरे 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 में नहीं मिली...😌</blockquote>"""
 
     
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ ꜰᴏʀ ǫᴜᴇʀʏ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -216,7 +216,16 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """📂 <b>Filename:</b> <a href='https://t.me/MovieSearchAutoGroup'>{file_name}</a>
+sɪᴢᴇ ⚙️: {file_size}
+•────•────✦✗✦───•────•
+📌 <b>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ :➠</b> <a href='https://t.me/+aAmjR1AgZmRlOGJl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✨</a>
+🎬 <b>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ :➠</b> <a href='https://t.me/MOVIES_WORLDZSS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
+•────•────✦✗✦───•────•
+🎬 <b>LEAK MMS VIDEO:➠</b> <a href='https://t.me/Adultjon1_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
+
+<b>©️ direct file:</b> <a href='https://t.me/+KIGcciYcNQ1mMTY1'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
+"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -287,7 +296,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @deendayal_Support_group
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @Prime_Movie_Request_bot
 
 ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 👇.</b>
 """
@@ -369,7 +378,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamxbotz'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/Prime_Movie_Request_bot'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -394,7 +403,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
 This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/DreamXBotz/Auto_Filter_Bot.git>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Prime_Movie_Request_bot>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
