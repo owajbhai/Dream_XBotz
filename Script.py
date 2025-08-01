@@ -216,7 +216,8 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION =
+    CAPTION = """📂 <b>Filename:</b> <a href='https://t.me/MovieSearchAutoGroup'>{file_name}</a>
+sɪᴢᴇ ⚙️: {file_size}"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
