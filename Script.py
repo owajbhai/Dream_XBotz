@@ -222,9 +222,9 @@ sɪᴢᴇ ⚙️: {file_size}
 📌 <b>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ :➠</b> <a href='https://t.me/+aAmjR1AgZmRlOGJl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ✨</a>
 🎬 <b>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ :➠</b> <a href='https://t.me/MOVIES_WORLDZSS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
 •────•────✦✗✦───•────•
-🎬 <b>LEAK MMS VIDEO:➠</b> <a href='https://t.me/Adultjon1_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
+🎬 <b>LEAK MMS VIDEO:➠</b> <a href='https://t.me/Altjon1_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ♨️</a>
 
-<b>©️ direct file:</b> <a href='https://t.me/+KIGcciYcNQ1mMTY1'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
+<b>©️ Direct file:</b> <a href='https://t.me/+KIGcciYcNQ1mMTY1'>ᴘʀɪᴍᴇ ʙᴏᴛᴢ</a>
 """
 
     
